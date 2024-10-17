@@ -1,0 +1,55 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/drawable-v24/home_selector.xml" value="0.1575" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/drawable/bottom_nav_bg.xml" value="0.1575" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/drawable/btn_bg.xml" value="0.1575" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/drawable/card_backgound.xml" value="0.12" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/drawable/chip_outline.xml" value="0.1575" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/drawable/chip_outline_selected.xml" value="0.1575" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1575" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/drawable/ic_login_read.xml" value="0.1575" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/drawable/ic_rent.xml" value="0.1405" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/drawable/ic_shelf.xml" value="0.1575" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/drawable/nav_tint_selector.xml" value="0.1575" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/drawable/selector_tab.xml" value="0.1575" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/drawable/view_bg.xml" value="0.1575" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout-land/fragment_donate.xml" value="0.43243243243243246" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/activity_auth.xml" value="0.25" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/activity_base.xml" value="0.25" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/activity_intro.xml" value="0.25" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/activity_splash.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/dialog_photo.xml" value="0.25" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/fragment_account.xml" value="0.25" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/fragment_donate.xml" value="0.2359375" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/fragment_home.xml" value="0.2359375" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/fragment_notification.xml" value="0.2359375" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/fragment_recommend.xml" value="0.2359375" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/fragment_rent.xml" value="0.11787709497206704" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/fragment_shelf.xml" value="0.2359375" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/fragment_signup.xml" value="0.25" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/fragment_welcome.xml" value="0.25" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/green_header_layout.xml" value="0.2" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/header_layout.xml" value="0.25" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/item_list_discover.xml" value="0.6" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/item_list_photo.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/item_list_top.xml" value="0.25" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/item_recommend.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/recommend_photo_list.xml" value="0.25" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/slider_1.xml" value="0.20427350427350427" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/slider_2.xml" value="0.25" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/layout/slider_3.xml" value="0.25" />
+        <entry key="..\:/Users/muskan/AndroidStudioProjects/TookBook/app/src/main/res/menu/bottom_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
